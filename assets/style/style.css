@@ -1,0 +1,75 @@
+body {
+  font-family: "Roboto Mono", sans;
+  min-height: 400px;
+  background-image: url("https://thumbs.dreamstime.com/b/o-teste-padr%C3%A3o-sem-emenda-do-vetor-%C3%ADcone-dinheiro-d%C3%B3lar-isolou-preto-fundo-papel-de-parede-113587463.jpg");
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: repeat;
+}
+
+.container {
+  background-color: #aaaaaa;
+  background-repeat: no-repeat;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 20px;
+  width: 50vh;
+}
+
+.page-title {
+  background-color: #646464;
+  max-width: 300px;
+  width: 100%;
+  position: center;
+  font-weight: 120;
+  color: #ffffff;
+  margin: 0 0 5px;
+  border-radius: 15px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+  font-weight: 800;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 20px;
+  background: #ffa600;
+}
+button:hover {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 20px;
+  background: #ffa600;
+}
+
+h2 {
+  margin-top: 25px;
+  color: #ffffff;
+  font-size: 30px;
+}
