@@ -3,6 +3,8 @@
 **Este é um conversor de moedas com base nos valores de Euro, Dólar, e/ou Bitcoin tratados como a conversão a partir do valor submetido pelo usuário. Este site foi desenvolvido e guiado pela alura na imersãoDev!**
 
 #AluraDev
+# 
+<img src="./assets/style/Conversor.png">
 
 ## Mais cobre o código...
 
